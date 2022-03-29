@@ -31,7 +31,7 @@ parâmetro é o nome especial da variável que armazenará a referência
 para o valor que passamos.
 
 ```js
-const resultado = log(4);
+const resultado = quadrado(4);
 
 console.log("O resultado é: " + resultado); // O resultado é: 16
 ```
@@ -44,7 +44,7 @@ function quadrado(numero) {
     return numero * numero;
 }
 
-const resultado = log(4);
+const resultado = quadrado(4);
 
 console.log("O resultado é: " + resultado); // O resultado é: 16
 ```
