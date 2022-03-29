@@ -1,6 +1,6 @@
 # Operadores de desestruturação e espalhamento
 
-## Sintaxe de desetruturação
+## Sintaxe de desestruturação
 
 A sintaxe de desetruturação permite a fácil atribuição de valores, armazenado em um Array ou como propriedades de um Objeto a uma variável.
 
