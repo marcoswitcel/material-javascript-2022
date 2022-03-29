@@ -72,7 +72,7 @@ log(...dadosPessoa);
 const numerosDe0a4 = [ 0, 1, 2, 3, 4 ];
 const numerosDe5a9 = [ 5, 6, 7, 8, 9 ];
 
-const todosAlgarismos = [ ....numerosDe0a4, ...numerosDe5a9 ];
+const todosAlgarismos = [ ...numerosDe0a4, ...numerosDe5a9 ];
 
 console.log(todosAlgarismos);
 ```
