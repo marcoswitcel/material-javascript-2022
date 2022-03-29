@@ -94,6 +94,16 @@ const quadrado = (numero) => {
 };
 ```
 
+## Outros tópicos para pesquisa
+
+* O que são funções anônimas e callbacks?
+* Funções podem acessar variáveis globais, mas as variáveis definidas
+dentro de uma função pertecem apenas a ela.
+* Funções declaradas com a palavra-chave `function` são automaticamente
+`puxada` para o topo do arquivo aonde foram definidas, isso se chama
+`function hoisting`, similar ao hoisting de variáveis em JavaScript.
+* O que são funções contrutoras?
+
 ## Material de apoio
 
 * [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions)
