@@ -1,4 +1,4 @@
-# Funções
+# Funções ou Desvios Incondicionais
 
 Funções são um dos principais meios de organizar e compor código em `JavaScript`
 
