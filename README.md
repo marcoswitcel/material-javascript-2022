@@ -1,6 +1,6 @@
 # Programando com Javascript
 
-Material sobre `JavaScript`
+Material sobre `JavaScript`.
 
 ## Referências
 
