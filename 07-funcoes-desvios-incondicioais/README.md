@@ -22,7 +22,7 @@ function quadrado(numero) {
 Para executarmos a função, digitamos o nome da função seguido do par de
 parênteses, dentro dos parênteses devemos passar os valores que serão
 usados durante a execução da função, caso a função espere algum.
-Quando mais de um valor forem esperados eles devem ser passados,
+Quando dois ou mais valores forem esperados eles devem ser passados,
 separados por vírgulas.
 
 Nesse caso a função espera um `argumento`, que será usado através do 
@@ -67,7 +67,7 @@ const resultado = quadrado(4);
 console.log("O resultado é: " + resultado); // O resultado é: 16
 ```
 
-`Arrow Functions` são um forma de criar funções mais curtas
+`Arrow Functions` são uma forma de criar funções mais curtas
 e as vezes mais claras.
 
 O trecho abaixo contém apenas a função nomeada `quadrado`, podemos
