@@ -1,5 +1,9 @@
 # Módulos e importações
 
+Em `JavaScript` o sistema de modularização é baseado na separação de funcionalidades em diversos arquivos.
+
+As palavras-chave `export` e `import` provém as funcionalidades que nos permitem reutilizar o código.
+
 Arquivo `modulo.js`
 
 ```js
