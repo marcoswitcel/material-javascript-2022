@@ -1,6 +1,6 @@
 # Tratando erros
 
-A forma de programação preventiva que temos em JavaScript para que
+A forma de tratar erros que temos em `JavaScript` para que
 nosso programa se recupere de erros é através de blocos try/catch.
 
 ```js
